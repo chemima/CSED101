@@ -1,3 +1,3 @@
 # CSED101 - Programming & Problem solving
 
-2023-1 at POSTECH
+2023-Spring at POSTECH
